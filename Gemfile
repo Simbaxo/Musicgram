@@ -13,6 +13,7 @@ gem "paperclip", "~> 5.0.0"
 gem 'simple_form'
 gem 'bootstrap-sass', '3.3.5'
 gem 'rmagick', '~> 2.15', '>= 2.15.4'
+gem 'devise'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
